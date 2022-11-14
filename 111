@@ -1,0 +1,6 @@
+mkdir Documents/blog
+cd Documents/blog
+npm install -g hexo-cli
+hexo init
+hexo generate
+hexo server
